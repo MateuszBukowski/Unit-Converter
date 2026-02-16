@@ -19,7 +19,7 @@ h2 {
 
 p {
     color: #353535;
-    font-size: 12px;
+    font-size: 18px;
     font-weight: normal;
 }
 
@@ -35,8 +35,11 @@ p {
 .result {
     background-color: white;
     margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
     padding-top: 20px;
     padding-bottom: 10px;
+    border-radius: 5px;
 
 }
 
